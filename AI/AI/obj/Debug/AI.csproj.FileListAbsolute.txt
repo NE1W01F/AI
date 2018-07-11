@@ -1,0 +1,7 @@
+C:\Users\Wolf\source\repos\AI\AI\bin\Debug\AI.exe.config
+C:\Users\Wolf\source\repos\AI\AI\bin\Debug\AI.exe
+C:\Users\Wolf\source\repos\AI\AI\bin\Debug\AI.pdb
+C:\Users\Wolf\source\repos\AI\AI\obj\Debug\AI.csprojAssemblyReference.cache
+C:\Users\Wolf\source\repos\AI\AI\obj\Debug\AI.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\source\repos\AI\AI\obj\Debug\AI.exe
+C:\Users\Wolf\source\repos\AI\AI\obj\Debug\AI.pdb
