@@ -60,11 +60,14 @@ namespace AI
                                 Console.WriteLine("Thank you " + user_1 + " I now know where that is. so next time you won't get this message.");
                             }
                         }
-                        string output = File.ReadAllText(@"C:\users\" + username + @"\Appdata\local\AI\" + input.ToLower() + ".txt");
+                        else
+                        {
+                            string output = File.ReadAllText(@"C:\users\" + username + @"\Appdata\local\AI\" + input.ToLower() + ".txt");
 
-                        Console.WriteLine(user + ": " + input);
-                        Console.WriteLine();
-                        Console.WriteLine("AI Bot: " + output);
+                            Console.WriteLine(user + ": " + input);
+                            Console.WriteLine();
+                            Console.WriteLine("AI Bot: " + output);
+                        }
                     }
                     else
                     {
